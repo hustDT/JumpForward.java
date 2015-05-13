@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JumpForward.java</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstButton">firstActivity</string>
+    <string name="secondButton">secondActivity</string>
+    <string name="firstText">press button jump to the second page</string>
+    <string name="secondText">press button return to the first page</string>
+</resources>
